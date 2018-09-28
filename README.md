@@ -6,15 +6,15 @@
 
 - Update .env file to reflect your configuration
 - Startup server side:
-* Navigate to mylibrary\server folder 
-* Open a terminal in the folder
-* Type `npm start` to start the server side instance (by default at port 3000)
-[Server Side URL](http://localhost:3000)
+	* Navigate to mylibrary\server folder 
+	* Open a terminal in the folder
+	* Type `npm start` to start the server side instance (by default at port 3000)
+	[Server Side URL](http://localhost:3000)
 - Start client side:
-* Navigate to mylibrary folser
-* Open a terminal in the folder
-* Type `ng serve` to start the client side instance (by default at port 4200)
-[Client Side URL](http://localhost:4200)
+	* Navigate to mylibrary folser
+	* Open a terminal in the folder
+	* Type `ng serve` to start the client side instance (by default at port 4200)
+	[Client Side URL](http://localhost:4200)
 
 ## Endpoints
 
